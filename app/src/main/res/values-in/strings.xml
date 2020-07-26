@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User\'s Search App</string>
+    <string name="find_username">Cari Username</string>
+    <string name="user">\@%s</string>
+    <string name="todo">TODO</string>
+    <string name="repository">%s\nRepositori</string>
+    <string name="followings">%s\nMengikuti</string>
+    <string name="follower">%s\nPengikut</string>
+
+    <string name="hello_blank_fragment">Upss Fragment Kosong</string>
+    <string name="work_in">Bekerja Di</string>
+    <string name="location">Lokasi</string>
+    <string name="kosong">Kosong</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Mengikuti</string>
+    <string name="follwer">Pengikut</string>
+    <string name="repo">Repositori</string>
+    <string name="github_user_n_ui_ux_dan_api">Github User\n( UI/UX dan API )</string>
+    <string name="submission_2_by_ikhsan_andriyawan">Submission 2 By Ikhsan Andriyawan</string>
+</resources>

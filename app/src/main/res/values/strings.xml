@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User\'s Search App</string>
+    <string name="find_username">Search Username</string>
+    <string name="user">\@%s</string>
+    <string name="todo">TODO</string>
+    <string name="repository">%s\nRepository</string>
+    <string name="followings">%s\nFollowing</string>
+    <string name="follower">%s\nFollower</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Upss blank fragment</string>
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+    <string name="kosong">Null</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Following</string>
+    <string name="follwer">Followers</string>
+    <string name="repo">Repositories</string>
+    <string name="github_user_n_ui_ux_dan_api">Github User\n( UI/UX dan API )</string>
+    <string name="submission_2_by_ikhsan_andriyawan">Submission 2 By Ikhsan Andriyawan</string>
+</resources>
